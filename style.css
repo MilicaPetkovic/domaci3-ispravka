@@ -1,0 +1,105 @@
+ul {
+	list-style: none;
+	float: right;
+	margin: 20px 0px 20px 0;
+	
+}
+
+li {
+	display: inline-block;
+}
+
+nav {
+	background-color: #336600;
+	
+}
+
+a {
+	color: #ffffff;
+	padding: 70px;
+}
+
+.clearfix {
+	clear: both;
+}
+body {
+	margin: 0;
+}
+.prvi {
+	position: relative;
+	border: 3px solid black;
+	width: 200px;
+	height: 150;
+	padding: 25px;
+	border-radius: 5px;
+	margin: 100px 0 0 50px;
+	display: inline-block;
+	margin-right: 50px;
+}
+.drugi {
+	position: relative;
+	border: 3px solid black;
+	width: 200px;
+	height: 150;
+	padding: 25px;
+	border-radius: 5px;	
+	display: inline-block;
+	margin-right: 50px;
+}
+.treci {
+	position: relative;
+	border: 3px solid black;
+	width: 200px;
+	height: 150;
+	padding: 25px;
+	border-radius: 5px;	
+	display: inline-block;
+	margin-right: 50px;
+}
+.cetvrti{
+	position: relative;
+	border: 3px solid black;
+	width: 200px;
+	height: 150;
+	padding: 25px;
+	border-radius: 5px;	
+	display: inline-block;
+}
+.circle {
+	position: absolute;
+	background: #242424;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	top: -38px;
+	left: 80px;
+}
+.circle1 {
+	position: absolute;
+	background: #242424;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	top: -38px;
+	left: 80px;
+}
+.circle2 {
+	position: absolute;
+	background: #242424;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	top: -38px;
+	left: 80px;
+}
+.circle3 {
+	position: absolute;
+	background: #242424;
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+	top: -38px;
+	left: 80px;
+}
+
+
